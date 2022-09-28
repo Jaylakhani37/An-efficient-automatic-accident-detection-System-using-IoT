@@ -33,3 +33,7 @@ hardware and AWS services.The libraries of python used are:
 
 # FINAL SETUP OF HARDWARE COMPONENTS:
 ![image](https://user-images.githubusercontent.com/88767949/192794507-fd981bf8-0a3e-4a8a-9d59-9e1c82bab58b.png)
+
+# Final Output of product :-
+![image](https://user-images.githubusercontent.com/88767949/192795234-28c4475a-d9d3-43f2-a3c9-9dc4cd1612bd.png)
+
