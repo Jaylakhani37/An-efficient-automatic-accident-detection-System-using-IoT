@@ -25,11 +25,11 @@ discovered using GPS system.
 # PROGRAMMING LANGUAGE:
 The script is written in python language and it is used to communicate between 
 hardware and AWS services.The libraries of python used are:
-• paho.mqtt.client
-• socket
-• ssl
-• json
-• RPi.GPIO
+- paho.mqtt.client
+- socket
+- ssl
+- json
+- RPi.GPIO
 
 # FINAL SETUP OF HARDWARE COMPONENTS:
 ![image](https://user-images.githubusercontent.com/88767949/192794507-fd981bf8-0a3e-4a8a-9d59-9e1c82bab58b.png)
