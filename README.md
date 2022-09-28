@@ -9,18 +9,18 @@ sensor values get communicated to AWS services and accidents would be
 discovered using GPS system.
 
 # SOFTWARE REQUIREMENTS:
-• AWS IoT
-• AWS Lamda
-• AWS SNS
-• AWS DynamoDB
-• AWS IAM
+- AWS IoT
+- AWS Lamda
+- AWS SNS
+- AWS DynamoDB
+- AWS IAM
 # HARDWARE REQUIREMENTS:
-• RaspberryPi
-• GPS Receiver
-• Ethernet Cable
-• Bread board and Push Button
-• Jumper wires
-• Powerbank
+- RaspberryPi
+- GPS Receiver
+- Ethernet Cable
+- Bread board and Push Button
+- Jumper wires
+- Powerbank
 
 # PROGRAMMING LANGUAGE:
 The script is written in python language and it is used to communicate between 
