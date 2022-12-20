@@ -37,3 +37,4 @@ hardware and AWS services.The libraries of python used are:
 # Final Output of product :-
 ![image](https://user-images.githubusercontent.com/88767949/192795234-28c4475a-d9d3-43f2-a3c9-9dc4cd1612bd.png)
 
+
