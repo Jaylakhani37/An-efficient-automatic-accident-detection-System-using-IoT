@@ -88,14 +88,13 @@ try:
             print("Button is pressed")
             while 1 == 1:
                 sleep(5)
-                if connflag == True:
+                if connflag == True: #Demo latitude and longitude
                     latitude = 23.186752
                     longitude = 72.629168
-
+                    #add Car Number variable If you wish 
                     message = "Your Vehicle is crashed and Your Vehicle Number is :  GJ-XXXX-XX"
                     
-                    
-
+                
                     paylodmsg0 = "{"
                     paylodmsg1 = "\"latitude\": \""
                     paylodmsg2 = "\", \"longitude\":"
