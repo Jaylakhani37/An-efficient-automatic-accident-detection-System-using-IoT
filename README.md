@@ -5,7 +5,7 @@ victims' delayed medical attention. Thus, when a traffic accident occurs, the
 alerting system would activate, sending the victim's family and friends a 
 message with the time and location of the accident. As a result, the injured 
 could receive immediate treatment. By this system, the essential parameters and 
-sensor values get communicated to AWS services and accidents would be 
+sensor values get communicated to AWS services and accidents would be
 discovered using GPS system.
 
 # SOFTWARE REQUIREMENTS:
